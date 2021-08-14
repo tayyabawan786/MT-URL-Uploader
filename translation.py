@@ -24,8 +24,8 @@ Made by @vodiflix
 """
     ABOUT_TEXT = """
 - **Bot :** URL Uploader
-- **Creator :** [Mrk](https://telegram.dog/vodiflixapp)
-- **Channel :** [MoTech](https://telegram.dog/vodiflix)
+- **Creator :** [Paf](https://telegram.dog/vodiflixapp)
+- **Channel :** [Vodiflix](https://telegram.dog/vodiflix)
 - **Credits :** `Everyone in this journey`
 - **Source :** [Click here](https://github.com/tayyabawan786/MT-URL-Uploader)
 - **Language :** [Python3](https://python.org)
